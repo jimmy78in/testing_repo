@@ -1,2 +1,3 @@
 This file is created to test add
 Added few items here
+Doing 1 more test with --no-ff
