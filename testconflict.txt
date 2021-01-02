@@ -1,0 +1,3 @@
+I m a new file which will be tested
+for a conflict.
+Lets us see how it works.
